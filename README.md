@@ -1,2 +1,3 @@
 # STUSB4700_PowerSharing
-USB-C Multi-ports implementation of shared Power
+USB-C PD multi-ports controller with Intellignet Power Allocation
+
